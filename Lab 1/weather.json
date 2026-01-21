@@ -1,0 +1,37 @@
+[
+  {
+    "city":"Limerick",
+    "temperature":12.5,
+    "humidity":82,
+    "wind_speed":15.2,
+    "rainfall_mm":2.3
+  },
+  {
+    "city":"Galway",
+    "temperature":11.8,
+    "humidity":85,
+    "wind_speed":18.5,
+    "rainfall_mm":3.1
+  },
+  {
+    "city":"Dublin",
+    "temperature":13.2,
+    "humidity":78,
+    "wind_speed":12.3,
+    "rainfall_mm":1.8
+  },
+  {
+    "city":"Cork",
+    "temperature":13.8,
+    "humidity":80,
+    "wind_speed":14.1,
+    "rainfall_mm":2.0
+  },
+  {
+    "city":"Belfast",
+    "temperature":10.9,
+    "humidity":88,
+    "wind_speed":20.3,
+    "rainfall_mm":3.8
+  }
+]
