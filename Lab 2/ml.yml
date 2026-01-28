@@ -1,0 +1,17 @@
+name: ml
+channels:
+  - defaults
+dependencies:
+  - python=3.13
+  - numpy
+  - requests
+  - matplotlib
+  - pandas
+  - scipy
+  - scikit-learn
+  - beautifulsoup4
+  - pillow
+  - opencv
+  - notebook
+  - ipykernel
+  - jupyterlab
